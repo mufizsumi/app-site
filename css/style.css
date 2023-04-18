@@ -1,0 +1,23 @@
+.header{
+    background-color: #ff6b81;
+    /* height: 100vh !important; */
+    width: 100%;
+    /* padding-top: 20px !important; */
+}
+
+.heading{
+    padding-top: 50px;
+    color: #ff6b81;
+}
+
+.button{
+    background-color: #ff6b81;   
+}
+.img{
+    padding-top: 100px;
+}
+.image{
+    padding-top: 80px;
+}
+
+
